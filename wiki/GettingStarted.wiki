@@ -1,0 +1,6 @@
+= Getting Started Guide =
+
+- import the project into eclipse
+- download NyARToolkit (http://sourceforge.jp/projects/nyartoolkit/releases/?package_id=7512)
+- import both src and src.markersystem from NyARToolkit's lib directory
+

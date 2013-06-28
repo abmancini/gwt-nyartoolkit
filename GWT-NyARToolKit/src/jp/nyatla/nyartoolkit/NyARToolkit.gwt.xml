@@ -1,17 +1,8 @@
 <module>
-
-    <!-- This is a verbatim copy of NyARToolkit with just this file added -->
-
     <source path="core" />
-
     <source path="detector" />
-
     <source path="nyidmarker" />
-
     <source path="processor" />
-
     <source path="psarplaycard" />
-    
     <source path="markersystem" />
-    
 </module>

@@ -8,4 +8,4 @@
 
 That's all.
 
-ASAP a full working sample code.
+A full working (trivial) sample code is avilable in the package com.jooink.gwt.nyartoolkit.sample. 
